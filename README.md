@@ -1,5 +1,6 @@
 # Curut
 Bot hamster kombat
+
 # Hamster Kombat Auto Farming Bot 
 This is a bot that can help you to run hamsterkombat telegram bot which has quite complete features with auto upgrade (3 methods), auto complete combo, auto complete daily cipher, auto complete Mini Game & auto complete tasks.
 
@@ -37,7 +38,7 @@ CLONE-2RN-ZJJG-00FA-C5Q
 TRAIN-1RG-3KSZ-0YCM-GEW
   ```
 CHECK MY NEW REPOSITORY FOR PROMO CODE GENERATOR !!
-https://github.com/jawikas/hamster-generator-code
+@iHamster_Key_Bot Buka di telegram
 ===========================================================
 
 ### Add configuration setting on `config.json` 
@@ -143,7 +144,7 @@ python main.py
 This project is licensed under the `NONE` License.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact us at [ [](https://t.me/Pumpbtcxyz) ].
+If you have any questions or suggestions, please feel free to contact us at https://t.me/Pumpbtcxyz) ].
 
 ## Thanks to :
 
